@@ -1,0 +1,86 @@
+POST http://localhost:8001/payment/create?serial="yaojikai"
+Content-Type: application/json;charset=UTF-8
+
+<> 2020-06-28T113707.200.json
+
+###
+
+POST http://localhost:8001/payment/create?serial="yaojikai"
+Content-Type: application/json;charset=UTF-8
+
+<> 2020-06-28T113639.400.json
+
+###
+
+POST http://localhost:8001/payment/create?serial="yaojikai"
+Content-Type: application/json;charset=UTF-8
+
+<> 2020-06-28T113443.400.json
+
+###
+
+POST http://localhost:8001/payment/create?serial="yaojikai"
+Content-Type: application/json;charset=UTF-8
+
+<> 2020-06-28T113335.400.json
+
+###
+
+POST http://localhost:8001/payment/create?serial="yaojikai"
+Content-Type: application/json;charset=UTF-8
+
+<> 2020-06-28T112812.400.json
+
+###
+
+POST http://localhost:8001/payment/create?serial=yaojikai
+Content-Type: application/json;charset=UTF-8
+
+<> 2020-06-28T112711.400.json
+
+###
+
+POST http://localhost:8001/payment/create?serial=yaojikai
+Content-Type: application/json;charset=UTF-8
+
+<> 2020-06-28T112622.400.json
+
+###
+
+POST http://localhost:8001/payment/create?serial=yaojikai
+Content-Type: application/json;charset=UTF-8
+
+<> 2020-06-28T112230.400.json
+
+###
+
+POST http://localhost:8001/payment/create?serial=yaojikai
+Accept: */*
+Content-Type: no-cache
+
+<> 2020-06-28T112035.415.json
+
+###
+
+POST http://localhost:8001/payment/create?serial=yaojikai
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-06-28T111906.415.json
+
+###
+
+POST http://localhost:8001/payment/create
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-06-28T111829.400.json
+
+###
+
+POST http://localhost:8080/payment
+Accept: */*
+Cache-Control: no-cache
+
+###
+
