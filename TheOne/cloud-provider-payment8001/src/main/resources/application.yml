@@ -4,7 +4,7 @@ server:
 spring:
   application:
     name: cloud-payment-service
-  datasource:
+  datasource::
     type: com.alibaba.druid.pool.DruidDataSource    #当前数据源操作类型
     driver-class-name: com.mysql.cj.jdbc.Driver    #MySQL驱动包
     username: root
